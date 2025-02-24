@@ -1,2 +1,22 @@
+.holder{
+	display:grid;
+	grid-template-rows:repeat(2,200px);
+	grid-template-columns:repeat(2,200px);
+	/* border:2px solid black; */
+}
 
-/* Your CSS Code here. */
+.item-1{
+	border:2px solid black;
+}
+
+.item-2{
+	border:2px solid black;
+}
+
+.item-4{
+	border:2px solid black;
+}
+
+.item-3{
+	border:2px solid black;
+}
